@@ -1,3 +1,4 @@
+```
 apiVersion: entando.org/v1
 kind: EntandoDeBundle
 metadata:
@@ -19,7 +20,7 @@ spec:
       - v0.0.1
   tags:
     - version: v0.0.1
-      shasum: eb6b7e3c56423a7721b1e6af209894980189d605
-      integrity: eb6b7e3c56423a7721b1e6af209894980189d605
+      shasum: 1639fd2f6d93d0dafe8594c632542e579c42d059
+      integrity: 1639fd2f6d93d0dafe8594c632542e579c42d059
       tarball: 'https://github.com/kerruba-bundles/ENG-346.git'
-
+```
