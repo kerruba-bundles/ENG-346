@@ -1,0 +1,6 @@
+code: cuiw
+description: A bundle containing only a simple widget with a configUI
+
+components:
+  widgets:
+    - widgets/my-widget.yaml
