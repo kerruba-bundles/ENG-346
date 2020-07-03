@@ -7,7 +7,7 @@ customUiPath: my-widget.ftl
 configUi: 
   customElement: "my-widget-config"
   resources: 
-    - cuiw/static/my-widget/config/js/runtime.js
-    - cuiw/static/my-widget/config/js/vendor.js
-    - cuiw/static/my-widget/config/js/main.js
+    - ENG-346/static/my-widget/config/js/runtime.js
+    - ENG-346/static/my-widget/config/js/vendor.js
+    - ENG-346/static/my-widget/config/js/main.js
   
