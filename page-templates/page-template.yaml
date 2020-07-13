@@ -10,10 +10,9 @@ configuration:
     - pos: 0
       description: Body
       mainFrame: true
-      sketch: { x1: 0, y1: 2, x2: 11, y2: 0 }
+      sketch: { x1: 0, y1: 0, x2: 11, y2: 0 }
       defaultWidget:
         code: my-widget
-        properties:
-          name: My fantastic widget
+        properties: null
 
 templatePath: page-template-freemarker.ftl
