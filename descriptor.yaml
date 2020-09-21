@@ -10,3 +10,12 @@ components:
 
   pageModels:
     - page-templates/page-template.yaml
+  
+  categories:
+    - categories/categories.yaml
+
+  groups:
+    - groups/groups.yaml
+
+  labels:
+    - labels/labell.yaml
